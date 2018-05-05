@@ -30,21 +30,21 @@
                     <div class="row">
 
                       <div class="row">
-                        <app-single-work v-bind:category = "'school-management'" v-bind:icon="'src/appAssets/img/work/prodigy.png'" v-bind:title="'Prodigy Reseller Platform'" v-bind:link="'https://prodigy.com.ng/'"></app-single-work>
-                        <app-single-work v-bind:category = "'company-website'" v-bind:icon="'src/appAssets/img/work/rydox.png'" v-bind:title="'Rydox Technologies'" v-bind:link="'http://rydoxtech.com/ '"></app-single-work>
-                        <app-single-work v-bind:category = "'company-website'" v-bind:icon="'src/appAssets/img/work/krisbel.png'" v-bind:title="'Krysbel Energy'" v-bind:link="'http://krysbelenergy.com/'"></app-single-work>
+                        <app-single-work v-bind:category = "'school-management'" v-bind:icon="'static/img/work/prodigy.PNG'" v-bind:title="'Prodigy Reseller Platform'" v-bind:link="'https://prodigy.com.ng/'"></app-single-work>
+                        <app-single-work v-bind:category = "'company-website'" v-bind:icon="'static/img/work/rydox.PNG'" v-bind:title="'Rydox Technologies'" v-bind:link="'http://rydoxtech.com/ '"></app-single-work>
+                        <app-single-work v-bind:category = "'company-website'" v-bind:icon="'static/img/work/krisbel.PNG'" v-bind:title="'Krysbel Energy'" v-bind:link="'http://krysbelenergy.com/'"></app-single-work>
                       </div>
 
                         <div class="row">
-                          <app-single-work v-bind:category = "'blogs'" v-bind:icon="'src/appAssets/img/work/expounding.png'" v-bind:title="'Expounding Christ'" v-bind:link="'http://expoundingchrist.com/'"></app-single-work>
-                          <app-single-work v-bind:category = "'blogs'" v-bind:icon="'src/appAssets/img/work/nibcraft.png'" v-bind:title="'NibCraft'" v-bind:link="'http://nibcraft.com/'"></app-single-work>
-                          <app-single-work v-bind:category = "'social-connect'" v-bind:icon="'src/appAssets/img/work/windsor.png'" v-bind:title="'Windsor Connect'" v-bind:link="'https://windsorconnect.ca/'"></app-single-work>
+                          <app-single-work v-bind:category = "'blogs'" v-bind:icon="'static/img/work/expounding.PNG'" v-bind:title="'Expounding Christ'" v-bind:link="'http://expoundingchrist.com/'"></app-single-work>
+                          <app-single-work v-bind:category = "'blogs'" v-bind:icon="'static/img/work/nibcraft.PNG'" v-bind:title="'NibCraft'" v-bind:link="'http://nibcraft.com/'"></app-single-work>
+                          <app-single-work v-bind:category = "'social-connect'" v-bind:icon="'static/img/work/windsor.PNG'" v-bind:title="'Windsor Connect'" v-bind:link="'https://windsorconnect.ca/'"></app-single-work>
                         </div>
 
                          <div class="row">
-                          <app-single-work v-bind:category = "'gyms'" v-bind:icon="'src/appAssets/img/work/jsfitness.png'" v-bind:title="'JS Fitness'" v-bind:link="'http://jsfitness.ca/'"></app-single-work>
-                          <app-single-work v-bind:category = "'gyms'" v-bind:icon="'src/appAssets/img/work/refine.png'" v-bind:title="'Refine Fitness'" v-bind:link="'http://refinefitness.ca/'"></app-single-work>
-                          <app-single-work v-bind:category = "'imagery'" v-bind:icon="'src/appAssets/img/work/chezimagery.png'" v-bind:title="'Chez Imagery'" v-bind:link="'http://chezimagery.com/'"></app-single-work>
+                          <app-single-work v-bind:category = "'gyms'" v-bind:icon="'static/img/work/jsfitness.PNG'" v-bind:title="'JS Fitness'" v-bind:link="'http://jsfitness.ca/'"></app-single-work>
+                          <app-single-work v-bind:category = "'gyms'" v-bind:icon="'static/img/work/refine.PNG'" v-bind:title="'Refine Fitness'" v-bind:link="'http://refinefitness.ca/'"></app-single-work>
+                          <app-single-work v-bind:category = "'imagery'" v-bind:icon="'static/img/work/chezimagery.PNG'" v-bind:title="'Chez Imagery'" v-bind:link="'http://chezimagery.com/'"></app-single-work>
                         </div>
 
                     </div> <!--/.row-->
