@@ -1,7 +1,7 @@
 <template>
   <div class="page">
                 <!--======= WELCOME AREA =======-->
-        <div id="home" class="welcome-area" data-stellar-background-ratio="0.6" style="background-image: url(src/appAssets/img/intro-bg.jpeg);">
+        <div id="home" class="welcome-area" data-stellar-background-ratio="0.6" style="background-image: url(static/img/intro-bg.jpeg);">
            <div class="welcome-table">
                <div class="welcome-cell">
                     <div class="container">
