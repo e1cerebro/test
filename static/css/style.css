@@ -1107,3 +1107,44 @@ fieldset[disabled] .btn {
     color: #fff;
     margin: 0px;
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+    p,
+    .about-text p,
+    div.work-area p,
+    li.filter {
+        font-size: 168%;
+    }
+    div.single-address p,
+    .form-control {
+        font-size: 158%;
+    }
+    ul.navbar-nav li a {
+        font-size: 132% !important;
+    }
+    .main-menu ul.navbar-nav li a {
+        font-size: 135% !important;
+    }
+    h4 {
+        font-size: 258% !important;
+    }
+    h2.lead {
+        font-size: 405% !important;
+    }
+    div#contact h4 {
+        font-size: 180% !important;
+    }
+    div.about-text a,
+    input.btn-sent {
+        font-size: 175% !important;
+    }
+    div.section-title h2 {
+        text-transform: uppercase;
+        font-size: 375% !important;
+    }
+    div.single-service h3,
+    .footer p,
+    div.element {
+        font-size: 205% !important;
+    }
+}

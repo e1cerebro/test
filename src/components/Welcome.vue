@@ -8,7 +8,7 @@
                         <div class="row">
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="welcome-text">
-                                  <h2 class="theme-color lead">Web Developer. WordPress Wizard.</h2>
+                                  <h2 class="theme-color lead">Web Developer</h2>
                                    <div class="element"></div>
                                     <div class="social-links">
                                         <ul>
