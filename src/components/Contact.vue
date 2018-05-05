@@ -77,7 +77,7 @@
                                         </div>
                                         <div class="col-md-12">
                                             <input v-if="valid" type="submit" @click.prevent="sendEmail" class="btn btn-effect btn-sent" value="Send message">
-                                            <img v-if="showLoader" :src="'src/appAssets/images/loader.gif'" />
+                                            <img v-if="showLoader" :src="'static/images/loader.gif'" />
                                         </div>
                                         <h4 class="text-danger text-center" v-if="!valid">Please complete all the fields</h4>
                                     </div>
